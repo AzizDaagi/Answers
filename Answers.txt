@@ -1,0 +1,13 @@
+1- Web developement is the process of creating/improving/editing a web site and it is essential in the context of the internet because the internet is essentially made of web sites.
+
+2- Yes. HTML (HyperText Markup Language) is the language used to create the structure of a web site wich means the language used to tell the browser how to display the content and 
+the elements of a web site.
+
+3- Yes. CSS (Cascading Style Sheets) is the language used to describe the presentation of a document written in HTML for example, wich means describes how elements should be rendered
+on screen, on paper, in speech, or on other media.
+
+4- Yes. JavaScript is the Programming Language for the Web (the brain of the web site). JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and
+validate data.
+
+5- The main reason for me chosing to learn web developement is putting myself in the path of improving my skills in coding and learn new assets that can help me in my study and my 
+futur job.git
